@@ -1,0 +1,252 @@
+
+body {
+    margin: 0;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 15%;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+  }
+  
+  li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  li a.active1 {
+    background-color: #898787;
+    color: white;
+  }
+  
+  li a:hover:not(.active1) {
+    background-color: #555;
+    color: white;
+  }
+
+
+
+
+
+
+
+#div1 {
+    background-image: url(https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fdesignshidai.com%2Fwp-content%2Fuploads%2F2020%2F11%2Fc9f0f895fb98ab9-61.jpg&refer=http%3A%2F%2Fdesignshidai.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653741185&t=16967612f3e5ff2e04844f455d427cd2);
+    background-position:  left top;
+    background-repeat:  repeat;
+    padding: 15px;
+height:1670px;
+}
+
+#div2 {
+  background-image: url(https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fdesignshidai.com%2Fwp-content%2Fuploads%2F2020%2F11%2Fc9f0f895fb98ab9-61.jpg&refer=http%3A%2F%2Fdesignshidai.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653741185&t=16967612f3e5ff2e04844f455d427cd2);
+  background-position:  left top;
+  background-repeat:  repeat;
+  padding: 15px;
+height:3865px;
+}
+
+#div3 {
+  background-image: url(https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fdesignshidai.com%2Fwp-content%2Fuploads%2F2020%2F11%2Fc9f0f895fb98ab9-61.jpg&refer=http%3A%2F%2Fdesignshidai.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653741185&t=16967612f3e5ff2e04844f455d427cd2);
+  background-position:  left top;
+  background-repeat:  repeat;
+  padding: 15px;
+height:1200px;
+}
+
+
+
+.active {
+    background-color:#606060;
+}
+
+    
+ 
+    
+    .writer-img {
+        -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+        -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+        box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+        float: left;
+        width: 50px;
+        }
+    
+    li a:hover {
+    background-color: #111;
+    }
+    .h1 {
+        border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+        color: #000000;
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 24px;
+        padding-bottom: 30px;
+        text-align: center;
+        width: 70%;
+        }
+        
+        
+        .byline {
+        font-family: Helvetica;
+        color: #000000;
+        float: left;
+        font-size: 14px;
+        padding-left: 10px;
+        text-transform: uppercase;
+        }
+
+
+     
+        
+        .left{
+            height: 265px;
+            float:left;
+              shape-margin:20px;
+            
+          }
+          .pp{
+            font-weight: 5px;
+          font-size: 40px;
+            line-height: 80px;
+            padding-bottom: 00px;
+          }
+    .h3{
+ margin:0px auto; 
+  font-size:26px; 
+  padding:40px 0px; 
+  color:#000000; 
+  text-align:center;
+
+    }
+    .p1{
+        margin:0px auto; 
+         font-size:20px; 
+         padding:40px 0px; 
+         color:#000000; 
+         text-align:center;
+       
+           }
+    .h4{
+        margin:0px auto; 
+        font-size:26px; 
+        padding:40px 0px; 
+        color:#000000; 
+        text-align:center;
+           
+               }
+    .p2{
+         margin:0px auto; 
+        font-size:26px; 
+        padding:40px 0px; 
+        color:#000000; 
+         text-align:center;
+               
+                   }
+
+    .image {
+        background-image: url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimgcdn.wenes.cn%2FwenesImg%2F1561704535yseJGry6d6.jpg%21w800&refer=http%3A%2F%2Fimgcdn.wenes.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653752062&t=d00789c861759a9dd7875756b79a9ab8");
+        background-size: cover;
+        background-position: left;
+        height: 900px;
+        }
+
+        .image1 {
+          background-image: url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fss2.meipian.me%2Fusers%2F30325647%2F96dd9fe0-bd9e-11e9-8db5-6b2dfa43dc5d.png%3Fmeipian-raw%2Fbucket%2Fivwen%2Fkey%2FdXNlcnMvMzAzMjU2NDcvOTZkZDlmZTAtYmQ5ZS0xMWU5LThkYjUtNmIyZGZhNDNkYzVkLnBuZw%3D%3D%2Fsign%2F934ce3b2d44479b1730dbab9c2a57ae1.jpg&refer=http%3A%2F%2Fss2.meipian.me&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653757449&t=9fb37a3451ffd3438365a58a3f9adccd");
+          background-size: cover;
+          background-position: left;
+          height: 900px;
+          }
+
+          .image2 {
+            background-image: url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.xued.cn%2Floadimg%2F62a7e%2F16160_28a8f6.jpg&refer=http%3A%2F%2Fimg.xued.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653761250&t=7773623b004d9df7742cbca9ad0ad3e3");
+            background-size: cover;
+            background-position: left;
+            height: 900px;
+            }
+
+
+        .caption {
+            display: block;
+            font-family: 'Playfair Display', serif;
+            font-size: 34px;
+            font-style: italic;
+            line-height: 34px;
+            margin-left: 20px;
+            padding: 10px;
+            position: relative;
+            text-align: center;
+            top: 50%;
+            width: 90%;
+            }
+    
+            .left{
+              height:500px;
+              float:left;
+                shape-margin:20px;
+              shape-outside:url(.https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.mingxing.com%2FUpload%2FArticles%2F1%2F0%2F631%2F631090_20210618174144778.png&refer=http%3A%2F%2Fwww.mingxing.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1651803091&t=7058f0f4940f8d68ee2274ce207267fa);
+            }
+              
+            
+            .pp{
+              font-weight: 18px;
+            font-size: 19px;
+              line-height: 24px;
+              padding-bottom: 00px;
+            }
+
+
+
+
+    .h5{
+        margin:0px auto; 
+        font-size:26px; 
+        padding:40px 0px; 
+        color:#000000; 
+        text-align:center;
+    }        
+
+    .p3{
+        margin:0px auto; 
+        font-size:26px; 
+        padding:40px 0px; 
+        color:#000000; 
+        
+    }        
+    
+
+       
+        .image3{
+                background-image: url("http://img.mp.itc.cn/upload/20170802/a82d3dc52ff14486ab53264f02cdb458_th.jpg");
+                background-size: cover;
+                background-position: left;
+                height: 900px;
+                }
+        .image4 {
+                    background-image: url("http://p7.itc.cn/images01/20200925/a82c164fd07e4b3aaddfebc0170a0adc.jpeg");
+                    background-size: cover;
+                    background-position: left;
+                    height: 900px;
+                    }
+
+                    footer {  
+                      position: fixed;  
+                      left: 10px;  
+                      bottom: 00px;  
+                      right: 10px;   
+                      width: 100%;  
+                       
+                      color: white;  
+                      text-align: center;  
+                      }
+
+
+                      
+
+
